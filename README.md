@@ -12,4 +12,4 @@ To run all of your outstanding migrations, execute the migrate Artisan command `
 
 ## npm install
 
-Run `npm install`.
+Run `npm install` for dependencies.
